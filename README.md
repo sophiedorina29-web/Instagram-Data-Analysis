@@ -2,9 +2,6 @@ Instagram Analytics Dashboard – Power BI
 📌 Project Overview
 
 This project focuses on analyzing Instagram user and engagement data to understand user behavior and content performance. The dashboard provides clear insights into likes, comments, interactions, and overall engagement trends.
-## 📷 Dashboard Screenshot
-
-![Instagram Analytics Dashboard](images/dashboard_overview.png)
 
 🎯 Objective
 
